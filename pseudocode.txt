@@ -1,0 +1,33 @@
+//soal 1 Pseudocode
+
+READ Mass of thing
+READ Acceleration of thing
+COMPUTE 600 mass multiply by 2m/s2 acceleration multiply by 3 person
+DISPLAY
+END
+
+//Soal 2 Pseudocode
+
+READ Year
+COMPUTE Year remainder by 4 equal 0
+PRINT 'Kabisat'
+ELSE 'Tahun biasa'
+
+//Soal 3 Pseudocode
+
+READ total Baju
+INPUT total Baju to the Machine
+COUNT Baju to 20
+IF Baju is less than 20
+RECOUNT Baju to 20
+IF Baju is equal 20
+START 'mencuci' with machine
+
+//soal 4 Pseudocode
+
+COUNT murid to 40
+INVESTIGATE murid 1 to 40
+IF murid equal 'kuku panjang'
+DISPLAY 'makian'
+IF murid equal 'kuku rapi'
+DISPLAY 'pujian'
